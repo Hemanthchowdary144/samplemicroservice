@@ -8,7 +8,7 @@
       "version": "2.0.0",
       "restore": {
         "projectUniqueName": "F:\\DEVOPS\\sample\\AuditChecklistModule\\AuditChecklistModule.csproj",
-        "projectName": "WebApplication1",
+        "projectName": "AuditChecklistModule",
         "projectPath": "F:\\DEVOPS\\sample\\AuditChecklistModule\\AuditChecklistModule.csproj",
         "packagesPath": "C:\\Users\\njaya\\.nuget\\packages\\",
         "outputPath": "F:\\DEVOPS\\sample\\AuditChecklistModule\\obj\\",
