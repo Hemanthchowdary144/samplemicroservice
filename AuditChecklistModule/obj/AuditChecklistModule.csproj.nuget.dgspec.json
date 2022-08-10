@@ -5,10 +5,10 @@
   },
   "projects": {
     "F:\\DEVOPS\\sample\\AuditChecklistModule\\AuditChecklistModule.csproj": {
-      "version": "1.0.0",
+      "version": "2.0.0",
       "restore": {
         "projectUniqueName": "F:\\DEVOPS\\sample\\AuditChecklistModule\\AuditChecklistModule.csproj",
-        "projectName": "AuditChecklistModule",
+        "projectName": "WebApplication1",
         "projectPath": "F:\\DEVOPS\\sample\\AuditChecklistModule\\AuditChecklistModule.csproj",
         "packagesPath": "C:\\Users\\njaya\\.nuget\\packages\\",
         "outputPath": "F:\\DEVOPS\\sample\\AuditChecklistModule\\obj\\",
