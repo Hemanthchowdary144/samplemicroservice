@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\AuditManagementSystem-master\\AuditChecklistModule\\AuditChecklistModule.csproj": {}
+    "F:\\DEVOPS\\sample\\AuditChecklistModule\\AuditChecklistModule.csproj": {}
   },
   "projects": {
-    "F:\\AuditManagementSystem-master\\AuditChecklistModule\\AuditChecklistModule.csproj": {
+    "F:\\DEVOPS\\sample\\AuditChecklistModule\\AuditChecklistModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\AuditManagementSystem-master\\AuditChecklistModule\\AuditChecklistModule.csproj",
+        "projectUniqueName": "F:\\DEVOPS\\sample\\AuditChecklistModule\\AuditChecklistModule.csproj",
         "projectName": "AuditChecklistModule",
-        "projectPath": "F:\\AuditManagementSystem-master\\AuditChecklistModule\\AuditChecklistModule.csproj",
+        "projectPath": "F:\\DEVOPS\\sample\\AuditChecklistModule\\AuditChecklistModule.csproj",
         "packagesPath": "C:\\Users\\njaya\\.nuget\\packages\\",
-        "outputPath": "F:\\AuditManagementSystem-master\\AuditChecklistModule\\obj\\",
+        "outputPath": "F:\\DEVOPS\\sample\\AuditChecklistModule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\njaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
