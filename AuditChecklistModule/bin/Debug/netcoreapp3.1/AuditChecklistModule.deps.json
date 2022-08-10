@@ -29,7 +29,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "AuditChecklistModule/1.0.0": {
+      "AuditChecklistModule/2.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.9",
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
@@ -3350,7 +3350,7 @@
     }
   },
   "libraries": {
-    "AuditChecklistModule/1.0.0": {
+    "AuditChecklistModule/2.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
